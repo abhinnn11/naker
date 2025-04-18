@@ -1,1 +1,9 @@
+# Prigent-Malware, parsed and mirrored by https://firebog.net
+# Updated 16APR25 from https://dsi.ut-capitole.fr/blacklists/download/malware.tar.gz
+
+# If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
+
+0000000069.com
+0000usdtvip.com
+000359.xyz
 test.com
