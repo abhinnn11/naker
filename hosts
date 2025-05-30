@@ -951,10 +951,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hostfleek.com
 0.0.0.0 hostingfreelife.com
 0.0.0.0 www.hostingfreelife.com
-0.0.0.0 agl-intl.hotstar.com
-0.0.0.0 fp-analytics.hotstar.com
-0.0.0.0 hb-analytics.hotstar.com
-0.0.0.0 segment.hotstar.com
 0.0.0.0 us-west-2.kinesis.hpanalytics.net
 0.0.0.0 hpphhpph.com
 0.0.0.0 hpyrdr.com

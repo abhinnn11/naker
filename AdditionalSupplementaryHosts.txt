@@ -19029,7 +19029,6 @@
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 eventorganizer.pk
 0.0.0.0 eventricity.biz
-0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector-dataplatform.action-media.ru
 0.0.0.0 events-collector.spot.im
@@ -28706,7 +28705,6 @@
 0.0.0.0 logs.game-insight.com
 0.0.0.0 logs.getfiddler.com
 0.0.0.0 logs.gshopper.com
-0.0.0.0 logs.hotstar.com
 0.0.0.0 logs.insight.rapid7.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.loggly.com
@@ -29378,7 +29376,6 @@
 0.0.0.0 mail.haloacton.com
 0.0.0.0 mail.healthgradesprovider.com
 0.0.0.0 mail.historictours.net
-0.0.0.0 mail.hotstar.com
 0.0.0.0 mail.ijungomail.com
 0.0.0.0 mail.ik-wolrdwide.com
 0.0.0.0 mail.illuminarebusiness.com
@@ -33519,7 +33516,6 @@
 0.0.0.0 newsletter.fleurop.de
 0.0.0.0 newsletter.gamespot.com
 0.0.0.0 newsletter.geo.de
-0.0.0.0 newsletter.hotstar.com
 0.0.0.0 newsletter.iberia.com
 0.0.0.0 newsletter.koffer-to-go.de
 0.0.0.0 newsletter.lampenundleuchten.at
@@ -41625,7 +41621,6 @@
 0.0.0.0 setkuttina.pages.dev
 0.0.0.0 setorempresarial.online
 0.0.0.0 setseta.com
-0.0.0.0 settings-analytics.hotstar.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.com
 0.0.0.0 settings.luckyorange.net
@@ -49526,7 +49521,6 @@
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 videoadblocker.pro
 0.0.0.0 videoads-cloud.rovio.com
-0.0.0.0 videoads.hotstar.com
 0.0.0.0 videoadvertising.com
 0.0.0.0 videoapi.smartadserver.com
 0.0.0.0 videocdn.adspeed.net

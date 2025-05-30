@@ -18586,7 +18586,6 @@ trck.youvisit.com
 ussrv4a.pbx.broadcloudpbx.com
 wh-img.instaimgs.com
 askmediagroup.com
-bifrost-api.hotstar.com
 cdn.gravitec.media
 l10.dca0.com
 r-us.tsyndicate.com
@@ -62173,7 +62172,6 @@ reworldmediafactory.com
 rljlodgingtrust.com
 rpptrk.com
 script.shoppingminds.com
-segment.hotstar.com
 sgameglobal.com
 showads-sgc.pubmnet.com
 sinfoon.com
@@ -406364,12 +406362,6 @@ supernova.hotrk0.com
 timelyads.hotrk0.com
 www.hotrk0.com
 hotsimulator.com
-events-analytics.hotstar.com
-fp-analytics.hotstar.com
-hb-analytics.hotstar.com
-logs.hotstar.com
-settings-analytics.hotstar.com
-vs.hotstar.com
 smetrics.hotsy.com
 hottie-locals.com
 hottopnow.com
