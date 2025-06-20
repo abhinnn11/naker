@@ -94,7 +94,6 @@ googleads4.g.doubleclick.net
 launches.appsflyer.com
 c.amazon-adsystem.com
 api.smoot.apple.com
-firebaseinstallations.googleapis.com
 bam.nr-data.net
 static.doubleclick.net
 pubads.g.doubleclick.net
