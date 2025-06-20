@@ -29,9 +29,7 @@ google-analytics.com
 graph.facebook.com
 www.google-analytics.com
 app-measurement.com
-googletagmanager.com
 optimizationguide-pa.googleapis.com
-www.googletagmanager.com
 fp.measure.office.com
 googlesyndication.com
 upload.fp.measure.office.com
